@@ -1,0 +1,55 @@
+.intro {
+  text-align: center;
+  margin-top: 100px;
+  color: green;
+  font-size: 18px;
+}
+
+span {
+  color: black;
+  font-size: 32px;
+}
+
+#counter1 {
+  margin-left: 35px;
+  font-size: 30px;
+}
+
+#counter2 {
+  margin-left: 35px;
+  font-size: 30px;
+}
+
+#btn {
+  margin: 10px;
+  height: 30px;
+  border-radius: 4px;
+}
+
+#btn1 {
+  margin: 10px;
+  height: 30px;
+  border-radius: 4px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: baseline;
+}
+
+#result {
+  text-align: center;
+  font-size: 32px;
+}
+
+#reset {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#btn2 {
+  height: 30px;
+  border-radius: 4px;
+  background-color: orangered;
+}
